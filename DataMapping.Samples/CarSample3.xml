@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml><car id="100" col="yellow"><model subline="Matiz" year="2010">Daewoo</model><engine>Petrol</engine></car><car id="1006" col="black"><model subline="Patrol" year="1990">Nissan</model><engine>Diesel</engine></car><car id="003" col="white"><model subline="Raum" year="1999">Toyota</model><engine>Gasoline</engine></car></xml>

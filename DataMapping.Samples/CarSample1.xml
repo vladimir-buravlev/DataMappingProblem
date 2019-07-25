@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <car>
+    <modelname>Daewoo Matiz</modelname>
+    <carcolor>Yellow</carcolor>
+    <year>2010</year>
+    <engine vol="1.2">Petrol</engine>
+  </car>
+  <car>
+    <modelname>Nissan Patrol</modelname>
+    <carcolor>Black</carcolor>
+    <year>1990</year>
+    <engine vol="2.8">Diesel</engine>
+  </car>
+  <car>
+    <modelname>Toyota Raum</modelname>
+    <carcolor>White</carcolor>
+    <year>1999</year>
+    <engine vol="1.5">Gasoline</engine>
+  </car>
+</root>

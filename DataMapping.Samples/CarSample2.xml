@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autos>
+  <auto>
+    <model>Daewoo Matiz</model>
+    <motor>Petrol</motor>
+    <farbe>Gelb</farbe>
+    <jahr>2010</jahr>
+    <motorvolumen>1.2</motorvolumen>
+  </auto>
+  <auto>
+    <model>Ford Maverick</model>
+    <farbe>Schwarz</farbe>
+    <motor>Diesel</motor>
+    <jahr>1990</jahr>
+    <motorvolumen>2.8</motorvolumen>
+  </auto>
+  <auto>
+    <model>Toyota Raum</model>
+    <farbe>Weiss</farbe>
+    <jahr>1999</jahr>
+    <motor>Gasoline</motor>
+    <motorvolumen>1.5</motorvolumen>
+  </auto>
+</autos>
